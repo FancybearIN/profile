@@ -1,5 +1,5 @@
 # Site
-repository: fancybearin.github.io/profile
+repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -10,7 +10,6 @@ phone: 07845248563
 website: sproogen.github.io/modern-resume-theme
 
 # Social links
-<<<<<<< HEAD
 twitter_username: jekyllrb
 github_username:  jekyll
 stackoverflow_username: "00000001"
@@ -24,27 +23,12 @@ pinterest_username: jekyll
 youtube_username: jekyll
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
-=======
-twitter_username: Deep07se
-github_username:  FancybearIN
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: its_deep07se
-linkedin_username: deepakparkash
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
->>>>>>> 078f268609366bf0ffd8fa4761b201660db15687
 
 # Additional icon links
 additional_links:
 - title: Test link
   icon: fab fa-ello
-  url: fancybearin.github.io/profile
+  url: sproogen.github.io/modern-resume-theme
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
