@@ -1,43 +1,43 @@
 # Site
-repository: sproogen/modern-resume-theme
+repository: FancybearIN/profile
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Data type version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-email_title: Email
-phone: 07845248563
+name: Deepak Parkash
+title: Student 
+email: deepakparkash0007@gmail.com
+email_title: Gmail
+phone: 6284480113
 phone_title: Phone
-website: sproogen.github.io/modern-resume-theme
+website: fancybearin.github.io/profile
 website_title: Web
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: Deep07se
+github_username:  FancybearIN
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: its_deep07se
+linkedin_username: deepakparkash
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
 - title: Test link
   icon: fab fa-ello
-  url: sproogen.github.io/modern-resume-theme
+  url: fancybearin.github.io/profile
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
