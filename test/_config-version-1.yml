@@ -3,21 +3,21 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+name: Deepak Parkash  
+title: Student
+email: deepakparkash002@gmail.com
+phone: 6284480113
+website: FancybearIN.github.io/resume
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: itsDeep07se
+github_username:  FancyBearIN
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: Deepak parkash
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
@@ -37,9 +37,11 @@ additional_links:
 about_title: About me title (Use this to override about section title)
 about_profile_image: _test/images/travis.png
 about_content: > # this means to ignore newlines until the next config item.
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports.
+  Deepak Parkash is a highly motivated individual with a strong interest in cyber security and ethical hacking. He holds a Diploma in Cyber Security and Ethical Hacking from Global Institute of Cyber Security and Ethical Hacking and is currently pursuing a Bachelor in Computer Application from GNDEC. 
+  
+  Deepak has gained hands-on experience in Linux, pentesting, web-pentesting, network-pentesting, automation, bash scripting, computer networks, and programming in Python. He has obtained various certifications from Simplilearn, Cisco, Tryhackme, EC-Council, Udemy, and Freecodecamp. 
+  
+  Deepak is currently working as a bug hunter at Bugcrowd and a CTF player at picoCTF and TryHackMe. He is eager to apply his knowledge and skills to a junior-level role in the field of cyber security and is excited about the opportunity to continue learning and growing in this field..
 
 # Projects Section
 projects_title: Projects title #(Use this to override about projects section title)

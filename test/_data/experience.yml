@@ -1,0 +1,24 @@
+- layout: right
+  company: BugCrowd
+  link: https://Bugcrowd.com
+  job_title: Bug Hunter 
+  dates: November 2021 - present
+  quote: >
+    Bug hunting freelacnig platfrom
+  description: >
+    Bug Hunter
+
+- layout: top
+  company: Picoctf
+  job_title: Ctf player
+  dates: August 2021 - November 2022
+  description: >
+    Ctf game platfrom
+
+- layout: top-right
+  company: Tryhackme
+  jobs:
+    - title: Ctf Player
+      dates: January 2021 - December 2022
+  description: >
+    Ctf game Platform 
