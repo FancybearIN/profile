@@ -54,7 +54,8 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/pic.jpg
+#Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Deepak Parkash is a highly motivated individual with a strong interest in cyber security and ethical hacking. He holds a Diploma in Cyber Security and Ethical Hacking from Global Institute of Cyber Security and Ethical Hacking and is currently pursuing a Bachelor in Computer Application from GNDEC. 
   
